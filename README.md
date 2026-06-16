@@ -1,10 +1,10 @@
-# Customer Segmentation Using K-Means Clustering 🛍️
+# Customer Segmentation Using K-Means Clustering
 
 > **Internship Project** | Python | Machine Learning | Unsupervised Learning
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This project implements a complete **Customer Segmentation** system using the **K-Means Clustering** algorithm on the Mall Customers dataset.  By grouping customers based on their Annual Income and Spending Score, we provide actionable business intelligence that helps marketing teams create targeted campaigns.
 
@@ -21,7 +21,7 @@ This project implements a complete **Customer Segmentation** system using the **
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 customer_segmentation/
@@ -62,7 +62,7 @@ customer_segmentation/
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - **Python** 3.8 or higher
 - **pandas** ≥ 1.5.0
@@ -72,7 +72,7 @@ customer_segmentation/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Step 1: Clone / Download the project
 Place the `customer_segmentation/` folder anywhere on your computer.
@@ -99,7 +99,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 python main.py
@@ -114,7 +114,7 @@ That's it!  The entire pipeline runs automatically.  You will see:
 
 ---
 
-## 📊 Output
+## Output
 
 ### Console Output (sample)
 ```
@@ -178,7 +178,7 @@ That's it!  The entire pipeline runs automatically.  You will see:
 
 ---
 
-## 🧠 Algorithm Explained (Simply)
+## Algorithm Explained (Simply)
 
 **K-Means** groups customers by finding K "centres" (centroids) such that every customer is closest to its own centre.
 
@@ -191,7 +191,7 @@ We choose K using the **Elbow Method**: plot WCSS vs K, and pick the K where imp
 
 ---
 
-## 🎯 Key Results: 5 Customer Segments
+## Key Results: 5 Customer Segments
 
 | Cluster | Name | Strategy |
 |---|---|---|
@@ -203,7 +203,7 @@ We choose K using the **Elbow Method**: plot WCSS vs K, and pick the K where imp
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 | Technology | Version | Purpose |
 |---|---|---|
@@ -215,7 +215,7 @@ We choose K using the **Elbow Method**: plot WCSS vs K, and pick the K where imp
 
 ---
 
-## 👤 Author
+## Author
 
 - **Name:** Chaitanya reddy manda
 - **Institution:** Aditya university
