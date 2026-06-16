@@ -218,12 +218,6 @@ We choose K using the **Elbow Method**: plot WCSS vs K, and pick the K where imp
 ## 👤 Author
 
 - **Name:** Chaitanya reddy manda
-- **Institution:** [Your College/University]
-- **Internship:** [Company Name]
+- **Institution:** Aditya university
+- **Internship:** Avaintern Edutech
 - **Date:** 2026
-
----
-
-## 📜 License
-
-This project is for educational and internship submission purposes.
